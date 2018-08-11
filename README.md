@@ -14,6 +14,10 @@ Command | Description | Permission
 - You can do "/pl v GTS all 100" to get every log for the GTS from the past 100 days
 - "/pl v m1zark all Abra 10" would show every log for that player involving Abra in the past 10 days
 
+#### Additional Permissions
+- pixellogger.delete -> Delete individual logs
+- pixellogger.collect -> Allows you to click on a Pokemon and have it sent to your storage.
+
 #### Config
 
 From the config you can enable/disable exactly what you want to be logged.
