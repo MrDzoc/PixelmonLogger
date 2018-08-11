@@ -1,5 +1,5 @@
 # PixelmonLogger
-Admin plugin for Pixelmon that logs various player actions
+This is an Sponge plugin for Pixelmon that logs various player actions. It will create a detailed log of the action, date, and Pokemon for each event.
 
 #### Commands
 
