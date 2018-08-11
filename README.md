@@ -46,4 +46,7 @@ Storage {
     storageType=h2
 }
 ```
-
+- PixelExtras logging will track uses of /pokegift and all its aliases
+- If you are using Simons WT, you need to disable this option as his will get tracked via the Received and Released logging.
+- Received logging will log everything that comes in from a command, like pokegive or as mentioned Simons WT.
+- Released logging will log deleting a Pokemon via the PC, as well as any command that removes a Pokemon.
