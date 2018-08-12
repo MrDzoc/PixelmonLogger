@@ -13,6 +13,7 @@ Command | Description | Permission
 - Logs default to a time of 1 day, so doing "/pl v all" would get every log from the past 1 day
 - You can do "/pl v GTS all 100" to get every log for the GTS from the past 100 days
 - "/pl v m1zark all Abra 10" would show every log for that player involving Abra in the past 10 days
+- "all" can be used for [Pokemon] and [Type] to retreive all types/pokemon
 
 #### Additional Permissions
 - pixellogger.delete -> Delete individual logs
