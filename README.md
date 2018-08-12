@@ -53,4 +53,7 @@ Storage {
 - PixelExtras logging will track uses of /pokegift and all its aliases
 - If you are using Simons WT, you need to disable the WT logging option as his will get tracked via the Received and Released logging.
 - Received logging will log everything that comes in from a command, like pokegive or as mentioned Simons WT.
-- Released logging will log deleting a Pokemon via the PC, as well as any command that removes a Pokemon.
+- Released logging will log deleting a Pokemon via the PC, as well as any command that removes a Pokemon/uses the right event.
+- PokeLoot logging will log whenever a player opens a pokeloot, as well as the locationa and type it was.
+- Shiny/Legendary logging will log when a players captures a shiny or legendary... likewise normal logging will log every normal Pokemon capture.
+- MegaDrops logging will log when a player kills a Mega Boss as well as all items they received from said boss.
